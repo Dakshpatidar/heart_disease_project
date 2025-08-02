@@ -22,9 +22,9 @@ st.markdown("""
         margin-bottom: 2rem;
     }
     label {
-        color: white !important;
-        font-size: 1.8rem !important;  /* Even larger label font */
-        font-weight: 700 !important;
+        color: #00BFFF !important;  /* Light Blue color for visibility */
+        font-size: 1.2rem !important;
+        font-weight: 600 !important;
     }
     .stSlider > div, .stSelectbox > div {
         font-size: 1.2rem !important;
